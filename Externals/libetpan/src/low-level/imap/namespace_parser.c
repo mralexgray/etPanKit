@@ -32,7 +32,7 @@
 #include "namespace_parser.h"
 
 #ifdef HAVE_CONFIG_H
-#	include <config.h>
+#	include "config.h"
 #endif
 
 #include "namespace_types.h"
