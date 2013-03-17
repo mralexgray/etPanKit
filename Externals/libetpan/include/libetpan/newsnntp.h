@@ -1,0 +1,1 @@
+link ../../src/low-level/nntp/newsnntp.h
